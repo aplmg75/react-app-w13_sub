@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .App-logo {
@@ -35,4 +35,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#info{
+  font-size: 30px;
+}
+article{
+  font-size: 20px;
+}
+#hed{
+  font-size: 20px;
 }
